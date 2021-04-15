@@ -17,23 +17,23 @@
 
 ## Who:
 
-**TBD**
+Any one who wants to perform calculator operations can use it.
 
 ## What:
 
-**TBD**
+Many make mistakes in calculations when they are in a hurry. This helps to reduce the errors in calculations.
 
 ## When:
 
-**TBD**
+When calculations are done in a hurry, there is a chance for misinterpretation of results. A small error can cause a lot of damage.
 
 ## Where:
 
-**TBD**
+Can use it in online exams for fast calculation
 
 ## How:
 
-**TBD**
+It can make calculations simpler and the results are accurate.
 
 # Detail requirements
 ## High Level Requirements:
