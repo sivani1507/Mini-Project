@@ -9,7 +9,9 @@
 ![Description](Link to Pic)
 -- Content 
 ## Defining Our System
-    -- TBD
+   #Few systems already exists with calculator operations i.e. mathematical operations.
+   #Added new features like drawing a right angled triangle with numbers and drawing a pyramid
+   ![DEFINING SYSTEM]
 ## SWOT ANALYSIS
 ![SWOT ANALYSIS](https://github.com/sivani1507/Mini-Project/blob/main/1_Requirements/Swot.jpg)
 
