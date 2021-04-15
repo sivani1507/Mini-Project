@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
- --- TBD 
+ This is a calculator which implements all mathematical operations along with the pyramid and right angled triangle with numbers
 
 ## Research
 ![Description](Link to Pic)
