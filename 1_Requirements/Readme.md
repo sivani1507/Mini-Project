@@ -3,8 +3,9 @@
  This is a calculator project which implements all mathematical operations along with the pyramid and right angled triangle with numbers
 
 ## Research
-![Description](Link to Pic)
--- Content 
+* The main aim of the calculator project is to implement mathematical operations.
+* We have functions to implement this.
+* Using these functions and adding two new features to it will make it look more advanced. 
 ## Cost and Features
 ![Description](Link to Pic)
 -- Content 
