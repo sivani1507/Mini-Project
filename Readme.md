@@ -19,7 +19,13 @@ Folder             | Description
 
 SF Id  |  Name                   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|-------------------------|----------------|----------------|---------------|-------------|--------------
-264649 | Saikam Sai Sivani Reddy | Feature A, B etc    | X No     | X No           |X No         |X No         
+264649 | Saikam Sai Sivani Reddy | F_1,F_2,F_3    | X No     | X No           |X No         |X No     
+
+| Feature Id | Feature |
+| -----------|---------|
+|F_1| Option to perform task as per requirement |
+|F_2| Data is saved  |
+|F_3|  option to perform different tasks|
 
 ## Challenges Faced and How Was It Overcome
 
