@@ -41,8 +41,7 @@ It can make calculations simpler and the results are accurate.
 
 # Detail requirements
 ## High Level Requirements:
-
-| ID | Description | Status (Implemented/Future)
+| ID | Description | Category| Status (Implemented/Future)|
 | ----- | ----- | ------- | ---------|
 | HR1 | User shall be able to select the operation to be performed | Techincal | IMPLEMENTED | 
 | HR2 | User shall be able to give inputs | Techincal |  IMPLEMENTED  |
@@ -50,9 +49,9 @@ It can make calculations simpler and the results are accurate.
 
 ##  Low level Requirements:
 
-|ID | Description | Status (Implemented/Future)
+|ID | Description | HLR ID | Status (Implemented/Future)|
 | ----- | ----- | ------- | ---------|
-| LR1 | User shall be able to read data from the users to perform the type of operation and the inputs required to perform the operation| Techincal | IMPLEMENTED | 
-| LR2 | User shall be able to get out of the program if the input is not per the type| Techincal |  IMPLEMENTED  |
-| LR3 | The changes in the program can be changed and should be saved before closing the program| Techincal |  IMPLEMENTED  |
+| LR1 | User shall be able to read data from the users to perform the type of operation and the inputs required to perform the operation| HR1 |IMPLEMENTED|
+| LR2 | User shall be able to get out of the program if the input is not per the type| HR2| IMPLEMENTED |
+| LR3 | The changes in the program can be changed and should be saved before closing the program| HR3 | IMPLEMENTED  |
 
