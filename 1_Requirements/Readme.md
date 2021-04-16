@@ -41,6 +41,7 @@ It can make calculations simpler and the results are accurate.
 
 # Detail requirements
 ## High Level Requirements:
+
 | ID | Description | Status (Implemented/Future)
 | ----- | ----- | ------- | ---------|
 | HR1 | User shall be able to select the operation to be performed | Techincal | IMPLEMENTED | 
@@ -48,6 +49,7 @@ It can make calculations simpler and the results are accurate.
 | HR3 | User shall be able to perform different operations | Techincal |  IMPLEMENTED  |
 
 ##  Low level Requirements:
+
 |ID | Description | Status (Implemented/Future)
 | ----- | ----- | ------- | ---------|
 | LR1 | User shall be able to read data from the users to perform the type of operation and the inputs required to perform the operation| Techincal | IMPLEMENTED | 
